@@ -51,24 +51,24 @@ The system extracts high-level speech representations using a pretrained Wav2Vec
          NumPy, Pandas
 
 📁 Project Structure
-Grammar-Scoring-Engine/
-│
-├── Grammar_Scoring.ipynb
-│
-├── data/ --------Download Kaggle
-│   ├── audios/
-│   │   ├── train/
-│   │   └── test/
-│   │
-│   └── csvs/
-│       ├── train.csv    
-│       └── test.csv
-│
-├── submission.csv
-│
-├── test_predictions.csv
-│
-└── README.md
+            Grammar-Scoring-Engine/
+            │
+            ├── Grammar_Scoring.ipynb
+            │
+            ├── data/ --------Download Kaggle
+            │   ├── audios/
+            │   │   ├── train/
+            │   │   └── test/
+            │   │
+            │   └── csvs/
+            │       ├── train.csv    
+            │       └── test.csv
+            │
+            ├── submission.csv
+            │
+            ├── test_predictions.csv
+            │
+            └── README.md
 
 🔮 Future Enhancements
 
